@@ -1,0 +1,3 @@
+USB_FTDI sheet renamed to USB_FTDI-RENAMED
+n/c flag on DDBUS3 removed
+D10 flipped over

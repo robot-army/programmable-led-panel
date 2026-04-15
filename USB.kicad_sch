@@ -3044,7 +3044,7 @@
 			(uuid "cc57f2c8-4325-490c-8be4-e08208268db5")
 		)
 		(instances
-			(project ""
+			(project "led-panel"
 				(path "/a86e1cab-ea0a-45e6-9194-d44b0d5c9450/4155e8b1-3e20-438f-8975-680719ad641f"
 					(reference "#FLG01")
 					(unit 1)

@@ -2022,7 +2022,7 @@
 			(uuid "d9f4adc1-ab77-4db3-9ac1-fc9c32002c95")
 		)
 		(instances
-			(project ""
+			(project "led-panel"
 				(path "/a86e1cab-ea0a-45e6-9194-d44b0d5c9450"
 					(reference "#PWR0201")
 					(unit 1)
@@ -2234,7 +2234,7 @@
 			(uuid "8232cc76-ef68-4eaf-99d9-c911ed4b2d07")
 		)
 		(instances
-			(project ""
+			(project "led-panel"
 				(path "/a86e1cab-ea0a-45e6-9194-d44b0d5c9450"
 					(reference "H1")
 					(unit 1)
@@ -2329,7 +2329,7 @@
 			(uuid "b9fbef5e-3287-417b-9d4b-287a1bbc74e3")
 		)
 		(instances
-			(project ""
+			(project "led-panel"
 				(path "/a86e1cab-ea0a-45e6-9194-d44b0d5c9450"
 					(reference "MP1")
 					(unit 1)
@@ -3554,7 +3554,7 @@
 			(color 0 0 0 0.0000)
 		)
 		(uuid "e0aa715e-b1b5-485b-b3d2-61697a2766a6")
-		(property "Sheetname" "USB_FTDI"
+		(property "Sheetname" "USB_FTDI-RENAMED"
 			(at 38.1 64.0584 0)
 			(effects
 				(font

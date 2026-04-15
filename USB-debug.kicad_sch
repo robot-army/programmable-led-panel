@@ -6171,10 +6171,6 @@
 		(uuid "b044413a-bac7-48f2-83d8-ba907455958b")
 	)
 	(no_connect
-		(at 204.47 130.81)
-		(uuid "b3971a3e-caad-4a51-aeb4-36fdce1aac48")
-	)
-	(no_connect
 		(at 204.47 133.35)
 		(uuid "b69d0d30-8a18-4da6-97f7-5af5ff47ed74")
 	)
@@ -7196,7 +7192,7 @@
 	)
 	(wire
 		(pts
-			(xy 72.39 109.22) (xy 72.39 111.76)
+			(xy 72.39 105.41) (xy 72.39 102.87)
 		)
 		(stroke
 			(width 0)
@@ -7516,7 +7512,7 @@
 	)
 	(wire
 		(pts
-			(xy 72.39 102.87) (xy 72.39 104.14)
+			(xy 72.39 111.76) (xy 72.39 110.49)
 		)
 		(stroke
 			(width 0)
@@ -11114,7 +11110,7 @@
 	)
 	(symbol
 		(lib_id "antmicroLEDIndicationDiscrete:LED_G_0603_KP-1608CGCK")
-		(at 72.39 109.22 90)
+		(at 72.39 105.41 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -11123,7 +11119,7 @@
 		(fields_autoplaced yes)
 		(uuid "5d5ca128-a715-4114-b21c-e614f8696713")
 		(property "Reference" "D10"
-			(at 74.93 105.41 90)
+			(at 69.85 109.22 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11133,7 +11129,7 @@
 			)
 		)
 		(property "Value" "LED_G_0603_KP-1608CGCK"
-			(at 80.01 86.36 0)
+			(at 64.77 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11144,7 +11140,7 @@
 			)
 		)
 		(property "Footprint" "antmicro-footprints:LED_0603_1608Metric_G"
-			(at 82.55 86.36 0)
+			(at 62.23 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11155,7 +11151,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.kingbright.com/attachments/file/psearch//000/00/00/KP-1608CGCK(Ver.23B).pdf"
-			(at 85.09 86.36 0)
+			(at 59.69 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11166,7 +11162,7 @@
 			)
 		)
 		(property "Description" "LED, Green, SMD, 0603, 20 mA, 2.1 V, 570 nm"
-			(at 72.39 109.22 0)
+			(at 72.39 105.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11175,7 +11171,7 @@
 			)
 		)
 		(property "MPN" "KP-1608CGCK"
-			(at 87.63 86.36 0)
+			(at 57.15 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11186,7 +11182,7 @@
 			)
 		)
 		(property "Manufacturer" "Kingbright"
-			(at 90.17 86.36 0)
+			(at 54.61 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11197,7 +11193,7 @@
 			)
 		)
 		(property "Color" "Green"
-			(at 74.93 107.9499 90)
+			(at 69.85 106.6801 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11206,7 +11202,7 @@
 			)
 		)
 		(property "Author" "Antmicro"
-			(at 92.71 86.36 0)
+			(at 52.07 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11217,7 +11213,7 @@
 			)
 		)
 		(property "License" "Apache-2.0"
-			(at 95.25 86.36 0)
+			(at 49.53 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14048,7 +14044,7 @@
 			(uuid "054bc151-af06-4efd-9c96-b1eda2f27485")
 		)
 		(instances
-			(project ""
+			(project "led-panel"
 				(path "/a86e1cab-ea0a-45e6-9194-d44b0d5c9450/4155e8b1-3e20-438f-8975-680719ad641f"
 					(reference "D11")
 					(unit 1)
@@ -17913,7 +17909,7 @@
 			(uuid "cc57f2c8-4325-490c-8be4-e08208268db5")
 		)
 		(instances
-			(project ""
+			(project "led-panel"
 				(path "/a86e1cab-ea0a-45e6-9194-d44b0d5c9450/4155e8b1-3e20-438f-8975-680719ad641f"
 					(reference "#FLG01")
 					(unit 1)

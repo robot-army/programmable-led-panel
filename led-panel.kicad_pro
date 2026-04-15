@@ -600,6 +600,7 @@
       "single_global_label": "ignore",
       "unannotated": "error",
       "unconnected_wire_endpoint": "warning",
+      "undefined_netclass": "error",
       "unit_value_mismatch": "error",
       "unresolved_variable": "error",
       "wire_dangling": "error"
@@ -948,7 +949,7 @@
     ],
     [
       "e0aa715e-b1b5-485b-b3d2-61697a2766a6",
-      "USB_FTDI"
+      "USB_FTDI-RENAMED"
     ]
   ],
   "text_variables": {}

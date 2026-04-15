@@ -8294,7 +8294,7 @@
 			(uuid "2df84ae6-ea66-402e-9f06-2da0f09dd99c")
 		)
 		(instances
-			(project ""
+			(project "led-panel"
 				(path "/a86e1cab-ea0a-45e6-9194-d44b0d5c9450/e726b9bd-c9dd-498e-8f0b-14c371b4e345"
 					(reference "C7")
 					(unit 1)
@@ -8432,7 +8432,7 @@
 			(uuid "8e51f19c-3789-417f-9360-93a6792148f3")
 		)
 		(instances
-			(project ""
+			(project "led-panel"
 				(path "/a86e1cab-ea0a-45e6-9194-d44b0d5c9450/e726b9bd-c9dd-498e-8f0b-14c371b4e345"
 					(reference "R2")
 					(unit 1)
@@ -8497,7 +8497,7 @@
 			(uuid "946a6bb5-c7e8-4a16-b2fc-ca07952993b3")
 		)
 		(instances
-			(project ""
+			(project "led-panel"
 				(path "/a86e1cab-ea0a-45e6-9194-d44b0d5c9450/e726b9bd-c9dd-498e-8f0b-14c371b4e345"
 					(reference "#FLG03")
 					(unit 1)
@@ -8627,7 +8627,7 @@
 			(uuid "83a60f7c-7553-4811-a741-4292ee95a782")
 		)
 		(instances
-			(project ""
+			(project "led-panel"
 				(path "/a86e1cab-ea0a-45e6-9194-d44b0d5c9450/e726b9bd-c9dd-498e-8f0b-14c371b4e345"
 					(reference "D1")
 					(unit 1)
@@ -11742,7 +11742,7 @@
 			(uuid "9411ab37-2792-4da9-9fde-231170425bdc")
 		)
 		(instances
-			(project ""
+			(project "led-panel"
 				(path "/a86e1cab-ea0a-45e6-9194-d44b0d5c9450/e726b9bd-c9dd-498e-8f0b-14c371b4e345"
 					(reference "R10")
 					(unit 1)
@@ -12765,7 +12765,7 @@
 			(uuid "37592caa-c313-4647-b0b4-82fc1bfca72c")
 		)
 		(instances
-			(project ""
+			(project "led-panel"
 				(path "/a86e1cab-ea0a-45e6-9194-d44b0d5c9450/e726b9bd-c9dd-498e-8f0b-14c371b4e345"
 					(reference "R8")
 					(unit 1)
@@ -12915,7 +12915,7 @@
 			(uuid "6510bc23-cbd8-4878-ae73-16f4586fb055")
 		)
 		(instances
-			(project ""
+			(project "led-panel"
 				(path "/a86e1cab-ea0a-45e6-9194-d44b0d5c9450/e726b9bd-c9dd-498e-8f0b-14c371b4e345"
 					(reference "C1")
 					(unit 1)
@@ -13517,7 +13517,7 @@
 			(uuid "06f7a808-87cd-4f51-99db-96e2ec1a909c")
 		)
 		(instances
-			(project ""
+			(project "led-panel"
 				(path "/a86e1cab-ea0a-45e6-9194-d44b0d5c9450/e726b9bd-c9dd-498e-8f0b-14c371b4e345"
 					(reference "U3")
 					(unit 1)
@@ -14465,7 +14465,7 @@
 			(uuid "79430e38-b69c-431c-a741-ef871f6cf127")
 		)
 		(instances
-			(project ""
+			(project "led-panel"
 				(path "/a86e1cab-ea0a-45e6-9194-d44b0d5c9450/e726b9bd-c9dd-498e-8f0b-14c371b4e345"
 					(reference "Q1")
 					(unit 1)
@@ -14654,7 +14654,7 @@
 			(uuid "77ef5105-7921-4711-a3c1-1c9e488ad539")
 		)
 		(instances
-			(project ""
+			(project "led-panel"
 				(path "/a86e1cab-ea0a-45e6-9194-d44b0d5c9450/e726b9bd-c9dd-498e-8f0b-14c371b4e345"
 					(reference "#PWR04")
 					(unit 1)
@@ -14953,7 +14953,7 @@
 			(uuid "5c0f1b66-6fae-45b5-89f3-17f2ec2ab841")
 		)
 		(instances
-			(project ""
+			(project "led-panel"
 				(path "/a86e1cab-ea0a-45e6-9194-d44b0d5c9450/e726b9bd-c9dd-498e-8f0b-14c371b4e345"
 					(reference "R1")
 					(unit 1)
@@ -15291,7 +15291,7 @@
 			(uuid "ed25df1c-63f4-45b9-b641-2ace3ac6243f")
 		)
 		(instances
-			(project ""
+			(project "led-panel"
 				(path "/a86e1cab-ea0a-45e6-9194-d44b0d5c9450/e726b9bd-c9dd-498e-8f0b-14c371b4e345"
 					(reference "#PWR023")
 					(unit 1)
@@ -15494,7 +15494,7 @@
 			(uuid "5fd20027-0a6a-4d8c-a906-a637f6f19c94")
 		)
 		(instances
-			(project ""
+			(project "led-panel"
 				(path "/a86e1cab-ea0a-45e6-9194-d44b0d5c9450/e726b9bd-c9dd-498e-8f0b-14c371b4e345"
 					(reference "#PWR03")
 					(unit 1)
@@ -16248,7 +16248,7 @@
 			(uuid "2367c8d1-8a53-4bac-b292-1aaae95ab8d6")
 		)
 		(instances
-			(project ""
+			(project "led-panel"
 				(path "/a86e1cab-ea0a-45e6-9194-d44b0d5c9450/e726b9bd-c9dd-498e-8f0b-14c371b4e345"
 					(reference "U1")
 					(unit 1)
@@ -16602,7 +16602,7 @@
 			(uuid "60632379-2900-4376-9e6a-3a3bc0417170")
 		)
 		(instances
-			(project ""
+			(project "led-panel"
 				(path "/a86e1cab-ea0a-45e6-9194-d44b0d5c9450/e726b9bd-c9dd-498e-8f0b-14c371b4e345"
 					(reference "SW1")
 					(unit 1)

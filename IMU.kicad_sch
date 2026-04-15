@@ -5672,7 +5672,7 @@
 			(uuid "5b28f647-465f-4914-9dc5-83257cc37f54")
 		)
 		(instances
-			(project ""
+			(project "led-panel"
 				(path "/a86e1cab-ea0a-45e6-9194-d44b0d5c9450/7d74e2d4-6915-4751-a0d0-a23155c065e5"
 					(reference "R121")
 					(unit 1)
